@@ -1,3 +1,7 @@
 # Karyar_Data_Analytics
-Course Resources
-Including Powerpoint & Codes
+<b>Course Resources</b>
+</br>
+* Powerpoint
+* Codes
+* Exercises
+* Projects
