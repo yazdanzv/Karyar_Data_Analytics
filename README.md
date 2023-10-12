@@ -5,7 +5,8 @@
 * Codes
 * Exercises
 * Projects
-* <b>Course References</b>
+
+<b>Course References</b>
 </br>
 * GeeksforGeeks
 * Quera
