@@ -12,3 +12,4 @@
 * Quera
 * ChatGPT
 * Tutorialspoint
+* W3Schools
